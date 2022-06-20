@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ch1WCqCbDQk+3CloKjCXi75rDlcyzYVwhj3gFhwOfCAIzSpCQsO1/MtIXQ2c1HOcvK/GFac0moRAurojiTyJLw==",
+  "dgSpecHash": "O5SrFrD3do/AeDvsRE9pdYy6bcxiszYUS8O36OtfMZW+3ga7M+d/YWRV97RMUZMDm8gJ1eCG6nXSb4uk8ulX/A==",
   "success": true,
   "projectFilePath": "F:\\Project\\My New Project 2022\\Finished\\TRN-CSGO\\TRN-CSGO\\TRN-CSGO.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Skilloff\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
